@@ -40,3 +40,7 @@ The analysis results are summarized as follows:
 - 88% of mortality of disease is from Measles.
   
 ## Dashboard
+![Screenshot (29)](https://github.com/Shalini-K-S/Life-Expectancy-Data-Analysis/assets/163270221/fd55aa0d-6422-41d0-9a09-1ce8307b88b7)
+![Screenshot (30)](https://github.com/Shalini-K-S/Life-Expectancy-Data-Analysis/assets/163270221/083a3896-b126-4a9c-8dfb-a819ae7dd0a2)
+![Screenshot (31)](https://github.com/Shalini-K-S/Life-Expectancy-Data-Analysis/assets/163270221/ff26412d-4314-433d-8779-917143a249fa)
+![Screenshot (32)](https://github.com/Shalini-K-S/Life-Expectancy-Data-Analysis/assets/163270221/9ae96be8-31b7-49bc-b1d2-0203b01c148d)
