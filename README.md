@@ -10,7 +10,7 @@
 ## Project Overview
 Life expectancy at birth is a key metric reflecting the average number of years a person can expect to live from birth, considering current mortality rates. Across the globe, life expectancy varies widely due to factors such as healthcare access, socio-economic conditions, and lifestyle choices.This data analysis project aims to gain deeper  insights on life expectancy in each country.
 ## Data Sources
-Life Expectancy data: The primary dataset used for this analysis is the "Life Expectancy data  .xlsx" file, containing detailed information about the various reasons for mortality in all the countries from the year 2000 to 2015.
+Life Expectancy data: The primary dataset used for this analysis is the "Life Expectancy data.csv" file, containing detailed information about the various reasons for mortality in all the countries from the year 2000 to 2015.
 
 ## Tools
 - Power BI
